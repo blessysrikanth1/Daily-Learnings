@@ -11,11 +11,11 @@ Welcome to my daily learning journey! This repository is dedicated to tracking m
 
 ## Daily Log
 
-| Date       | Topic/Area Covered | Summary                         |
-|------------|--------------------|---------------------------------|
-| [2024-08-12] | [Arrays]         |  sums in 3 different approaches |
-| [2024-08-13] | [Arrays]         |  sums in 2 different approaches |
-| [2024-08-17] | [Arrays]         |  sums of 2 different kinds      |
+| Date       | Topic/Area Covered | Summary                         |                         links                           |
+|------------|--------------------|---------------------------------|---------------------------------------------------------|
+| [2024-08-12] | [Arrays]         |  sums in 3 different approaches |(https://leetcode.com/problems/sort-colors/description/) |
+| [2024-08-13] | [Arrays]         |  sums in 2 different approaches |(https://leetcode.com/problems/maximum-subarray/description/)|
+| [2024-08-17] | [Arrays]         |  sums of 2 different kinds      |()|
 
 ## Resources
 

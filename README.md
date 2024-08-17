@@ -15,6 +15,7 @@ Welcome to my daily learning journey! This repository is dedicated to tracking m
 |------------|--------------------|---------------------------------|
 | [2024-08-12] | [Arrays]         |  sums in 3 different approaches |
 | [2024-08-13] | [Arrays]         |  sums in 2 different approaches |
+| [2024-08-17] | [Arrays]         |  sums of 2 different kinds      |
 
 ## Resources
 

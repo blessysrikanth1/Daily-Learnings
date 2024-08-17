@@ -14,6 +14,7 @@ Welcome to my daily learning journey! This repository is dedicated to tracking m
 | Date       | Topic/Area Covered | Summary                         |
 |------------|--------------------|---------------------------------|
 | [2024-08-12] | [Arrays]         |  sums in 3 different approaches |
+| [2024-08-13] | [Arrays]         |  sums in 2 different approaches |
 
 ## Resources
 
